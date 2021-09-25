@@ -52,7 +52,7 @@ int main()
     cout<<"Original array is :"<<endl;
     display(B,n);
     QuickSort(B,0,n-1);
-    cout<<"\nSorted array using quick sort is :"<<endl;
+    cout<<"\nSorted array usi quick sort is :"<<endl;
     display(B,n);
 	return 0;
 }
