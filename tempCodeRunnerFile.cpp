@@ -1,0 +1,1 @@
+cout<<"the num in second loop is "<<ar2[j]<<"\n";
